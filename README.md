@@ -1,1 +1,5 @@
-# mine
+<iostream>
+  void main()
+  {
+  cout<<"hello world"<<endl;
+  }
